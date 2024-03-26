@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_todolist_prac/widgets/tab_item.dart';
+import 'package:flutter_todolist_prac/tab_item.dart';
 
 void main() {
   runApp(const TodoListApp());
